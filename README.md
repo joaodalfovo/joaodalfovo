@@ -8,7 +8,7 @@ Cybersecurity Student • Information Security • Blue Team
 
 ## Sobre mim
 
-Sou estudante de **Cibersegurança e Ciência da Computação**, com foco em desenvolver habilidades práticas na área de **Information Security**.
+Sou estudante de **Cibersegurança e Ciência de dados**, com foco em desenvolver habilidades práticas na área de **Information Security**.
 
 Tenho grande interesse em **detecção de ameaças, análise de logs, análise de tráfego de rede e segurança defensiva (Blue Team)**. Estudo principalmente através de **prática, laboratórios e projetos técnicos**, buscando compreender como ataques ocorrem e como podem ser identificados e mitigados.
 
